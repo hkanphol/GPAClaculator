@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\bin\Debug\net6.0-windows\GPAX Calculator.exe
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\bin\Debug\net6.0-windows\GPAX Calculator.deps.json
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\bin\Debug\net6.0-windows\GPAX Calculator.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\bin\Debug\net6.0-windows\GPAX Calculator.dll
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\bin\Debug\net6.0-windows\ref\GPAX Calculator.dll
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\bin\Debug\net6.0-windows\GPAX Calculator.pdb
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX Calculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX_Calculator.Form1.resources
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX Calculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX Calculator.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX Calculator.dll
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\ref\GPAX Calculator.dll
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX Calculator.pdb
+C:\Users\Admin\Documents\GitHub\GPAClaculator\GPAX Calculator\GPAX Calculator\obj\Debug\net6.0-windows\GPAX Calculator.genruntimeconfig.cache

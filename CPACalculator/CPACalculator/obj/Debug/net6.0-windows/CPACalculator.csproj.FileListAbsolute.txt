@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\bin\Debug\net6.0-windows\CPACalculator.exe
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\bin\Debug\net6.0-windows\CPACalculator.deps.json
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\bin\Debug\net6.0-windows\CPACalculator.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\bin\Debug\net6.0-windows\CPACalculator.dll
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\bin\Debug\net6.0-windows\ref\CPACalculator.dll
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\bin\Debug\net6.0-windows\CPACalculator.pdb
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.Form1.resources
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.dll
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\ref\CPACalculator.dll
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.pdb
+C:\Users\Admin\Documents\GitHub\GPAClaculator\CPACalculator\CPACalculator\obj\Debug\net6.0-windows\CPACalculator.genruntimeconfig.cache
